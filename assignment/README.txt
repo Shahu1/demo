@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 Hello welcome 
 
+=======
+First change in js file folder
+>>>>>>> js_assignments
 
 This is a line 1 of css_assignment README FILE
 
