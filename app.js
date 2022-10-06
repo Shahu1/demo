@@ -1,4 +1,7 @@
-Hello this js file
+Hellw this js file
+
+
+Here i add nw line
 :wq
 :wq
 
